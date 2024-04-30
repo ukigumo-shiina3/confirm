@@ -14,5 +14,8 @@
 - Nextはv14のcanary版を使用
 
 ## 参考資料
-[Conformの公式](https://conform.guide/)
-[useActionsStateの公式](https://react.dev/reference/react/useActionState#noun-labs-1201738-(2))
+[Conform公式](https://conform.guide/) 
+
+[useActionsState公式](https://react.dev/reference/react/useActionState#noun-labs-1201738-(2))
+
+[Zod公式](https://zod.dev/)
